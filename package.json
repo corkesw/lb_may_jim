@@ -1,0 +1,23 @@
+{
+  "name": "aoc",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {
+    "jest": "^28.1.0"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/corkesw/aoc_2021_day1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/corkesw/aoc_2021_day1/issues"
+  },
+  "homepage": "https://github.com/corkesw/aoc_2021_day1#readme"
+}
